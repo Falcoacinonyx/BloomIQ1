@@ -1,16 +1,14 @@
-# bloomiq1
+# BloomIQ 🌿  
 
-A new Flutter project.
+## Overview  
+BloomIQ is a Flutter-based application designed for monitoring and controlling environmental factors in gardens. This project is still **in progress**, with Firebase Authentication fully implemented for user login and sign-up. Future updates will include multi-factor authentication (MFA) and Google Sign-In.  
 
-## Getting Started
+## Current Features  
+✅ Email and password login and sign-up  
+✅ Fully implemented Firebase Authentication  
 
-This project is a starting point for a Flutter application.
+## Future Plans  
+- Add multi-factor authentication (MFA) for admin and user login  
+- Implement Google Sign-In for users  
+- Develop the admin dashboard for real-time monitoring and control  
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
